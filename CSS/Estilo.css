@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+    color: white;
+}
+table thead{
+    background-color: #2b632b;
+    color: white;
+    text-align: center;
+}
